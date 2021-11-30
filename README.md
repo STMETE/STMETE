@@ -1,5 +1,10 @@
 ### Hi!
 
+#
+[![GitHub followers](https://img.shields.io/github/followers/STMETE?style=social)](https://github.com/STMETE?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/STMETE?style=social)
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FSTMETE.STMETE%2Freadme)
+
 ## Contact me
  <p>
    <a href="https://discordapp.com/users/377605834458267650"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
