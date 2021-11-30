@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## Contact me
+ <p>
+   <a href="https://discordapp.com/users/377605834458267650"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
+   </p>
+
+   <br />
 <!--
 **STMETE/STMETE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
