@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!
 
 ## Contact me
  <p>
