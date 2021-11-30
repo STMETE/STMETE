@@ -5,8 +5,8 @@
    <a href="https://discordapp.com/users/377605834458267650"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
    </p>
 
-    <br/>
-    <br/>
+    <br />
+    <br />
       
   ## Languages and tools
 <p align="left">
