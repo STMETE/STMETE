@@ -1,26 +1,21 @@
-### Hi there 👋
-
-
-
+### Hi!
+  
 ## Contact me
-<p>
-  <a href="https://discordapp.com/users/377605834458267650"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
-  </p>
-  
-  <br />
-  <br />
+ <p>
+   <a href="https://discordapp.com/users/377605834458267650"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
+   </p>
 
-## Languages and tools
+   <br />
+   <br />
+      
+  ## Languages and tools
 <p align="left">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
-  
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
 </p>
-
+>>>>>>> main
 <!--
 //<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//csharp/csharp-original.svg" width="40" height="40" />
   //<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" />
